@@ -50,16 +50,22 @@
 <br/><br/>
 [이미지 올린 후, 해당 이미지에 대한 분류 결과가 카테고리에 표시됨]
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ### 색감 매칭 
 
 ![image](https://github.com/ddooing/soldesk_artme/assets/118183105/736e7139-85a5-4227-998f-51cc5ca380ec)
+<br/><br/>
 [ '색감 매칭' 메뉴에서 색감이 비슷한 이미지를 찾고싶은 이미지를 올림 ]
 
 ![image](https://github.com/ddooing/soldesk_artme/assets/118183105/aee29c07-e69f-44ba-9fdc-f8f19338c6d6)
+<br/><br/>
 [ '결과보기' 버튼을 누르고, 이미지에 맞는 카테고리로 분류한 후, 이미지와 해당 카테고리에서 비슷한 색감의 이미지를 계산함 ] 
 
 ![image](https://github.com/ddooing/soldesk_artme/assets/118183105/f92aa533-7943-4045-b880-a5234214622e)
+<br/><br/>
 [ 다 계산한 후, 제일 유사한 색감의 이미지 상위 3개를 결과 페이지에서 보여줌]
 
    
