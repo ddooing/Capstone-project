@@ -41,11 +41,13 @@
 
 
 ![image](https://github.com/ddooing/soldesk_artme/assets/118183105/a68a2f9b-a01f-4b02-97ff-8d952a7026b8)
+<br/><br/>
 [이미지 올리기 전]
 
 <br/><br/>
 
 ![image](https://github.com/ddooing/soldesk_artme/assets/118183105/45eaf49a-a599-46e4-99d1-92fd3bf0a916)
+<br/><br/>
 [이미지 올린 후, 해당 이미지에 대한 분류 결과가 카테고리에 표시됨]
 
 
